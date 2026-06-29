@@ -1,0 +1,114 @@
+@import url('https://fonts.googleapis.com/css2?family=Allura&family=Bebas+Neue&family=Bitcount+Grid+Double:wght@100..900&family=Bodoni+Moda:ital,opsz,wght@0,6..96,400..900;1,6..96,400..900&family=Caveat:wght@400..700&family=Eater&family=Foldit:wght@100..900&family=Honk:MORF@15&family=Reem+Kufi+Fun:wght@400..700&family=Shadows+Into+Light&family=Sigmar+One&family=Sixtyfour+Convergence&display=swap');
+
+.navbar-nav{
+    margin-left: auto;
+}
+.nav-link{
+    font-family:"Bodoni Moda", serif ;
+    font-size: large;
+    color:#7FFF00;
+    font-weight: bolder;
+
+}
+.nav-link:hover{
+      color: #8B0000;
+}
+body{
+    background-image: url(https://i.pinimg.com/1200x/04/41/10/04411090483e9a2cbe4bd73f76dcf3f5.jpg);
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    margin: 0%;
+}
+.col-8{
+    text-align: right;
+    color:#E8E8E8;
+    padding-left: 20px;
+    padding-top: 150px;
+
+}
+.home-p{
+    font-family: "Bodoni Moda", serif;
+    font-size: large;
+    font-weight: 200;
+}
+.home-img{
+    
+    max-width:100%;
+    height: auto;
+    border-radius: 50%;
+
+}
+.what-h{
+    font-family:"Reem Kufi Fun", sans-serif;
+
+}
+.col-12{
+    text-align: center;
+    font-family: "Bodoni Moda", serif;
+    color:#E8E8E8;
+}
+.card-section{
+    text-align:center;
+
+   
+}
+
+.card-l{
+    padding:30px;
+    background-color: transparent;
+    margin:80px;
+    
+   
+
+}
+.card-r{
+    padding:30px;
+    background-color: transparent;
+    margin:80px;
+}
+.card-h{
+    font-family: "Eater", serif;
+    
+    color:#D6D2C4 ;
+}
+.card-p{
+    font-family: "Reem Kufi Fun", sans-serif;
+    color: #4DFFF3;
+
+}
+.card-img{
+    transition: transform 01s ease, box-shadowing 01s ease ;
+}
+.card-img:hover {
+  transform: scale(1.05);
+  box-shadow: 0 0 20px #00f7ff;
+}
+.what-p{
+    color: #D6D2C4;
+    font-family: "Bodoni Moda", serif;
+    font-size: large;
+    font-weight: 200;
+}
+.contact-details{
+    align-content: center;
+    text-align: center;
+}
+.contact-h{
+    font-family: "Sigmar One", sans-serif;
+    color:#9D00FF;
+}
+.insta{
+    height: 50px;
+    width:50px;
+    transition:transform 1.5 ease;
+    padding: 5px;
+    margin: 8px;
+}
+.insta:hover{
+    transform: scale(1.5);
+    box-shadow: #9D00FF;
+    
+}
+
+
